@@ -5,7 +5,7 @@ This is a quick PHP Unit test that loads a webpage using PHP WebDriver
 https://github.com/facebook/php-webdriver
 
 The path given to the require_once directive in bootstrap.php should point to
-PHP WebDriver's __init__.php file, wherever that is on your system.
+PHP WebDriver's \_\_init\_\_.php file, wherever that is on your system.
 
 For this to work you need to download the Selenium server from here:
 
